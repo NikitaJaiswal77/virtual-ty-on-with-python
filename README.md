@@ -11,7 +11,7 @@ This is a simple web application that allows users to try on virtual glasses usi
 ### Prerequisites
 
 - Python 3.x
-- OpenCV and haarcascade_eye_tree_eyeglasses.xml file
+- OpenCV and haarcascade xml files.
 - Flask
 
 ### Installation
