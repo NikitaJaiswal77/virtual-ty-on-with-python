@@ -17,5 +17,5 @@ This is a simple web application that allows users to try on virtual glasses usi
 ### Installation
 
 1. Clone this repository to your local machine:
-
+2.Run the command-pip install -r requirements.txt
 
